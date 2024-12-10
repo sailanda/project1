@@ -1,0 +1,9 @@
+//gcd of two numbers
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+    int a=12,b=27;
+ 
+        cout<<(a/__gcd(a,b)*b);
+    }
+
